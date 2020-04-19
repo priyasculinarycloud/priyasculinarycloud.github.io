@@ -25,9 +25,8 @@ html, body {
 }
 
 .image-txt-container {
-  display:flex;
-  align-items:stretch;
-  flex-direction: row;
+  float: left;
+  margin-right: 1%;
 }
 
 img {
