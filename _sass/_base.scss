@@ -24,6 +24,12 @@ html, body {
     height: 10%;
 }
 
+.image-txt-container {
+  display:flex;
+  align-items:top;
+  flex-direction: row;
+}
+
 img {
   max-width: 100%;
 }
