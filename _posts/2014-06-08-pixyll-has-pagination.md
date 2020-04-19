@@ -8,12 +8,8 @@ categories: jekyll pixyll
 
 {% include test.html image_path="https://images4.alphacoders.com/206/thumb-350-20658.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
 
-This is an empty post to illustrate the pagination component with Pixyll.
 
-<div class="image-txt-container">
-  <img src="https://images4.alphacoders.com/206/thumb-350-20658.jpg">
-  <h2>
-    Text here
-  </h2>
-</div>
+
+
+This is an empty post to illustrate the pagination component with Pixyll.
 
