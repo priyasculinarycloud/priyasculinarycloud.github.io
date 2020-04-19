@@ -5,13 +5,12 @@ date: 2020-04-11 07:59:03+00:00
 excerpt: A South Indian cuisine with succulent pieces of capsicums that kids would
   love to relish for lunch.
 layout: post
-link: https://shanmugapriyam.wordpress.com/2020/04/11/capsicum-rice/
 slug: capsicum-rice
 title: Capsicum Rice
-wordpress_id: 9
 categories:
 - Food and Culinary
 ---
+
 
 
 
