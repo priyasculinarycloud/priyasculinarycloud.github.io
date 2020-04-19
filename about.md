@@ -10,12 +10,12 @@ tags: about
 
 
 <div>
-  <img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200414103634410_cover-1.jpg"  height="30%" width="30%" class="img-circle"/>
+  <img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200414103634410_cover-1.jpg"  height="40%" width="40%" class="img-circle"/>
   <div>
  <h2>Passionate Kitchen Ninja </h2>
   <i>I'm a cooking freak who enjoys making traditional Indian cuisines. I love sharing my everyday culinary experiences in the form of blog posts.</i>
-    <br/><br/>
-    <p><b><i>Shanmuga Priya</i></b></p>
+    <br/>
+    <b><i>Shanmuga Priya</i></b>
   </div>
 </div>
 
