@@ -9,6 +9,9 @@ slug: capsicum-rice
 title: Capsicum Rice
 categories:
 - Food and Culinary
+output:
+  html_document:
+    css: styles.css
 ---
 
 
@@ -87,7 +90,8 @@ Coarse grind the dry roasted ingredients.
 
 ![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200411103702233_cover_2-1.jpg?resize=2000%2C2000)
 
- <a href="url"><img src= "https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg" style="border-radius:50%"></a>
+
+![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg)
 
 
 <!--div class=".image-cropper">
