@@ -9,4 +9,13 @@ tags: about
 
 **_Shanmuga Priya_**
 
-{% include test.html image_path="https://images4.alphacoders.com/206/thumb-350-20658.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
+             |  
+:-------------------------:|:-------------------------:
+![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200414103634410_cover-1.jpg)  | I'm a cooking freak who enjoys making traditional Indian cuisines.
+
+<div class="image-txt-container">
+<p float="left">
+  <img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200414103634410_cover-1.jpg" width="50" height="50" />
+   I'm a cooking freak who enjoys making traditional Indian cuisines.
+</p>
+</div>
