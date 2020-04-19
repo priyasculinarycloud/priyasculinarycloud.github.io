@@ -13,7 +13,7 @@ tags: about
 
 
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200414103634410_cover-1.jpg?w=934)
+![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200414103634410_cover-1.jpg?w=250&h=250)
 
 
 
