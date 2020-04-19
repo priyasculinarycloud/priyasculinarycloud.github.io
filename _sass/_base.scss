@@ -18,9 +18,8 @@ html, body {
   min-height: 100%;
 }
 
-.img-left {
-  float: left;
-  margin-right: 1em;
+.img-circle {
+    border-radius: 50%;
 }
 
 img {
