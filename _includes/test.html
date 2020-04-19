@@ -1,11 +1,13 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-<div style="clear: both;">
-  <div style="float: left; margin-right 1%;">
-    <img src="{{ include.image_path }}" alt="" class="img-circle">
-  </div>
-  <div>
-    <h2><b>{{ include.title }}</b></h2>
-    {{ include.description | markdownify }}
+<div class="site-wrap">
+  <div style="clear: both;">
+    <div style="float: left; margin-right 1%;">
+      <img src="{{ include.image_path }}" alt="" class="img-circle">
+    </div>
+    <div>
+      <h2><b>{{ include.title }}</b></h2>
+      {{ include.description | markdownify }}
+    </div>
   </div>
 </div>
