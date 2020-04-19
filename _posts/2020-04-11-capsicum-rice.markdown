@@ -87,9 +87,14 @@ Coarse grind the dry roasted ingredients.
 
 ![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200411103702233_cover_2-1.jpg?resize=2000%2C2000)
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg) <!-- .element height="50%" width="50%" -->
+ <a href="url"><img src= "https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg" style="border-radius:50%"></a>
 
-<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"> 
+
+<!--div class=".image-cropper">
+  <img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg" alt="avatar" class=".profile-pic">
+</div-->
+
+<!--img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"--> 
 
 
 
