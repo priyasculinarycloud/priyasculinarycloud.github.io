@@ -64,6 +64,7 @@ Cut the aforementioned vegetables and keep it ready.
 <div>
 	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-rounded-corner-body"/>
 </div>
+<p/>
 
 
 
@@ -73,7 +74,7 @@ Add 1/2 tbsp of butter in a pan and add Cumin seeds, crushed Pepper Corns, Garli
 <div>
 	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415172000117_cover-1.jpg"  class="img-rounded-corner-body"/>
 </div>
-
+<p/>
 
 
 
@@ -84,7 +85,7 @@ In a pressure cooker, add 1/2 tbsp of butter and add chopped Onions, Tomatoes, C
 <div>
 	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415172612841_cover-1.jpg"  class="img-rounded-corner-body"/>
 </div>
-
+<p/>
 
 
 After it gets cooked, let it cool down. Blend it well, to make a puree out of it.
@@ -101,11 +102,15 @@ Melt 1 tbsp of butter in a pan and add a tbsp of Maida flour to it. Mix it well 
 
 
 
-<div>
+<div class="row">
+     <div class="column">
 	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180517683_cover-1.jpg"  class="img-rounded-corner-body"/>
+     </div>
+	 <div class="column">
 		<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180705302_cover.jpg"  class="img-rounded-corner-body"/>
+         </div>
 </div>
-
+<p/>
 
 
 
