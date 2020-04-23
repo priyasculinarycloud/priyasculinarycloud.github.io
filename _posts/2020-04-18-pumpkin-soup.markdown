@@ -65,7 +65,7 @@ Cut the aforementioned vegetables and keep it ready.
 
 
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg?w=1024)
+![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg){:height="50%" width="50%"}
 
 
 
