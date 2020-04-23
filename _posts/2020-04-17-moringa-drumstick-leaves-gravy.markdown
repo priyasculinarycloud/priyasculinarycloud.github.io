@@ -5,7 +5,7 @@ date: 2020-04-17 16:29:26+00:00
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/04/18/moringa-drumstick-leaves-gravy/
 slug: moringa-drumstick-leaves-gravy
-title: Moringa/ Drumstick leaves gravy (without dhal)
+title: Moringa / Drumstick leaves gravy (without dhal)
 wordpress_id: 226
 categories:
 - Food and Culinary
