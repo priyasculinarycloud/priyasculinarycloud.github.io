@@ -75,6 +75,9 @@ Add 1/2 tbsp of butter in a pan and add Cumin seeds, crushed Pepper Corns, Garli
 
 ![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415172000117_cover-1.jpg?w=1024)
 
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-rounded-corner"/>
+</div>
 
 
 
@@ -87,7 +90,9 @@ In a pressure cooker, add 1/2 tbsp of butter and add chopped Onions, Tomatoes, C
 
 ![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415172612841_cover-1.jpg?w=1024)
 
-
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-rounded-corner"/>
+</div>
 
 
 
@@ -125,3 +130,6 @@ Serve hot with fried breads.
 
 ![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415200841143_cover-3.jpg?w=1024)
 
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-rounded-corner"/>
+</div>
