@@ -15,7 +15,7 @@ MIT License http://opensource.org/licenses/MIT
 
 /* Custom image altering CSS added by Bala */
 
-.img-circle {
+.img-circle-profile {
     border-radius: 50%; 
     width: 30%;
     height: 30%;
@@ -23,13 +23,22 @@ MIT License http://opensource.org/licenses/MIT
     margin-right: 2%;
 }
 
-.img-rounded-corner {
+.img-rounded-corner-body {
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-radius:5%;
     width: 60%;
     height: 60%;
+}
+
+.img-rounded-corner-end {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:30%;
+    width: 80%;
+    height: 80%;
 }
 
 .breakAfter{margin-bottom:1%;}
