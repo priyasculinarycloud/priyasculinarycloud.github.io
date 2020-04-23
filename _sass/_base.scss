@@ -26,10 +26,11 @@ MIT License http://opensource.org/licenses/MIT
 }
 
 .img-cover {
-		width: calc(100% - 70px);
-		z-index: z-index(".wp-block-cover__inner-container");
-		color: #D3D3D3;
-	}
+  width: calc(100% - 70px);
+  z-index: z-index(".wp-block-cover__inner-container");
+  color: #D3D3D3;
+  opacity:0.75;
+}
 
 .img-circle-profile {
     border-radius: 50%; 
