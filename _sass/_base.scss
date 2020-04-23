@@ -15,15 +15,21 @@ MIT License http://opensource.org/licenses/MIT
 
 /* Custom image altering CSS added by Bala */
 
-.row {
+.img-row {
   display: flex;
 }
 
 // Create three equal columns that sits next to each other 
-.column {
+.img-column {
   flex: 33.33%;
   padding: 0.5%;
 }
+
+.img-cover {
+		width: calc(100% - 70px);
+		z-index: z-index(".wp-block-cover__inner-container");
+		color: $light-gray-100;
+	}
 
 .img-circle-profile {
     border-radius: 50%; 
