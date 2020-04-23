@@ -11,17 +11,8 @@ categories:
 ---
 
 
-
-
-
-
-<div id="example1">
-  <h2>Hello World</h2>
-  <p>The background image is displayed in its original size.</p>
-</div>
-
 <div>
-	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-cover-modern"/>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-cover"/>
 </div>
 <p/>
 
