@@ -122,4 +122,4 @@ Serve hot with fried breads.
 	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415200841143_cover-3.jpg"  class="img-rounded-corner-end"/>
 </div>
 
-<p/><br><p/>
+<p/><br>
