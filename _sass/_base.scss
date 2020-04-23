@@ -27,6 +27,7 @@ MIT License http://opensource.org/licenses/MIT
 
 .img-cover {
   width: calc(100% - 70px);
+  height: 40%;
   z-index: z-index(".wp-block-cover__inner-container");
   color: #D3D3D3;
   opacity:0.85;
