@@ -15,6 +15,22 @@ MIT License http://opensource.org/licenses/MIT
 
 /* Custom image altering CSS added by Bala */
 
+
+.profile-container {
+    display: flex;
+    &__image {
+           border-radius: 50%; 
+           width: 30%;
+           height: 30%;
+           float: left;
+           margin-right: 2%;
+           align-self: flex-start;
+    }
+    &__text {
+        flex: 1 1 auto;
+    }
+}
+
 .img-row {
   display: flex;
 }
