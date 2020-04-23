@@ -12,7 +12,7 @@ categories:
 
 
 <div class="div-portrait">
-	<img src="https://raw.githubusercontent.com/bbalakriz/bbalakriz.github.io/master/images/pumpkin-soup-cover.jpg"  class="img-cover"/>
+	<img src="https://raw.githubusercontent.com/bbalakriz/bbalakriz.github.io/master/images/pumpkin-soup/pumpkin-soup-cover.jpg"  class="img-cover"/>
 </div>
 <p/>
 
