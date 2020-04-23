@@ -14,7 +14,11 @@ categories:
 
 
 
-<div style="background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415171258749_cover.jpg?w=1024');background-position:57% 49%;min-height:209px;"></div>
+
+<div id="example1">
+  <h2>Hello World</h2>
+  <p>The background image is displayed in its original size.</p>
+</div>
 
 
 
