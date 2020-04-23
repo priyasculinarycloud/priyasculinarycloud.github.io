@@ -100,13 +100,13 @@ Melt 1 tbsp of butter in a pan and add a tbsp of Maida flour to it. Mix it well 
 
 
 
-<div class="container">
-    <div style="float:left">
-	   <img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180517683_cover-1.jpg"  class="img-rounded-corner-body"/>
-    </div>
-    <div style="float:right">
-	    <img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180705302_cover.jpg"  class="img-rounded-corner-body"/>
-    </div>
+<div class="row">
+     <div class="column">
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180517683_cover-1.jpg"   class="img-rounded-corner-body"/>
+     </div>
+	 <div class="column">
+		<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180705302_cover.jpg"   class="img-rounded-corner-body"/>
+         </div>
 </div>
 <p/>
 
