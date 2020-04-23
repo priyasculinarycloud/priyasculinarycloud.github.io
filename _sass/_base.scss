@@ -14,20 +14,6 @@ MIT License http://opensource.org/licenses/MIT
 */
 
 /* Custom image altering CSS added by Bala */
-#example1 {
-  border: 2px solid black;
-  padding: 25px;
-  background: url(https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415171258749_cover.jpg?w=1024);
-  background-repeat: no-repeat;
-  background-size: auto;
-}
-
-.img-cover-modern {
-  object-fit: cover;
-  width: 100%;
-  height: 40%;
-  opacity:0.85;
-}
 
 .img-row {
   display: flex;
