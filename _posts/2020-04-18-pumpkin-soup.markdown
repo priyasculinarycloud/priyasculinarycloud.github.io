@@ -62,7 +62,7 @@ categories:
 Cut the aforementioned vegetables and keep it ready.
 
 <div>
-	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-rounded-corner"/>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-rounded-corner-body"/>
 </div>
 
 
@@ -70,13 +70,8 @@ Cut the aforementioned vegetables and keep it ready.
 Add 1/2 tbsp of butter in a pan and add Cumin seeds, crushed Pepper Corns, Garlic and saute for few minutes.
 
 
-
-
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415172000117_cover-1.jpg?w=1024)
-
 <div>
-	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-rounded-corner"/>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415172000117_cover-1.jpg"  class="img-rounded-corner-body"/>
 </div>
 
 
@@ -86,12 +81,8 @@ In a pressure cooker, add 1/2 tbsp of butter and add chopped Onions, Tomatoes, C
 
 
 
-
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415172612841_cover-1.jpg?w=1024)
-
 <div>
-	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-rounded-corner"/>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415172612841_cover-1.jpg"  class="img-rounded-corner-body"/>
 </div>
 
 
@@ -110,13 +101,10 @@ Melt 1 tbsp of butter in a pan and add a tbsp of Maida flour to it. Mix it well 
 
 
 
-
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180517683_cover-1.jpg?resize=2000%2C2000)
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180705302_cover.jpg?resize=2000%2C2000)
-
-
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180517683_cover-1.jpg"  class="img-rounded-corner-body"/>
+		<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180705302_cover.jpg"  class="img-rounded-corner-body"/>
+</div>
 
 
 
@@ -127,9 +115,6 @@ Serve hot with fried breads.
 
 
 
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415200841143_cover-3.jpg?w=1024)
-
 <div>
-	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200415171203151_cover-1.jpg"  class="img-rounded-corner"/>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415200841143_cover-3.jpg"  class="img-rounded-corner-end"/>
 </div>
