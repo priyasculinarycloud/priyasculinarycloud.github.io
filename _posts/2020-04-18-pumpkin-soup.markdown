@@ -3,17 +3,19 @@ author: shanmu09
 comments: true
 date: 2020-04-18 16:16:01+00:00
 layout: post
-link: https://shanmugapriyam.wordpress.com/2020/04/19/pumpkin-soup/
 slug: pumpkin-soup
 title: Pumpkin Soup
-wordpress_id: 341
+
 categories:
 - Food and Culinary
 ---
 
 
 
-
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415171258749_cover.jpg"  class="img-cover"/>
+</div>
+<p/>
 
 
 
@@ -100,11 +102,11 @@ Melt 1 tbsp of butter in a pan and add a tbsp of Maida flour to it. Mix it well 
 
 
 
-<div class="row">
-     <div class="column">
+<div class="img-row">
+     <div class="img-column">
 	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180517683_cover-1.jpg"  class="img-rounded-corner-sbs" />
      </div>
-	 <div class="column">
+	 <div class="img-column">
 		<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415180705302_cover.jpg" class="img-rounded-corner-sbs" />
          </div>
 </div>
