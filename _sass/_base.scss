@@ -13,10 +13,7 @@ MIT License http://opensource.org/licenses/MIT
 
 */
 
-html, body {
-  height: auto;
-  min-height: 100%;
-}
+/* Custom image altering CSS added by Bala */
 
 .img-circle {
     border-radius: 50%; 
@@ -26,11 +23,27 @@ html, body {
     margin-right: 2%;
 }
 
+.img-rounded-corner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:5%;
+    width: 30%;
+    height: 30%;
+}
+
 .breakAfter{margin-bottom:1%;}
 
 .image-txt-container {
   float: left;
   margin-right: 1%;
+}
+
+/* Standard CSS from jxnblk*/
+
+html, body {
+  height: auto;
+  min-height: 100%;
 }
 
 img {
