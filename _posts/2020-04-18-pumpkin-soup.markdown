@@ -13,7 +13,7 @@ categories:
 
 
 <div>
-	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415171258749_cover.jpg"/>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415171258749_cover.jpg" class="img-cover"/>
 </div>
 <p/>
 
