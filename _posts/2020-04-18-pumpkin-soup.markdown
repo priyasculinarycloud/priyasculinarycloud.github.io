@@ -5,7 +5,7 @@ date: 2020-04-18 16:16:01+00:00
 layout: post
 slug: pumpkin-soup
 title: Pumpkin Soup
-
+excerpt: Soup made with Pumpkin that goes well with fried bread.
 categories:
 - Food and Culinary
 ---
