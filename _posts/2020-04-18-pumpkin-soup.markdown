@@ -41,7 +41,7 @@ categories:
   * Tomato - 1 (small size)
   * Garlic - 2 big pods
   * Maida flour - 1 tbsp
-  * water
+  * Water
   * Salt
 
 
@@ -66,7 +66,7 @@ Cut the aforementioned vegetables and keep it ready.
 
 
 
-Add 1/2 tbsp of butter in a pan and add Cumin seeds, crushed Pepper Corns, Garlic and saute for few minutes.
+Add 1/2 tbsp of butter in a pan and add cumin seeds, crushed pepper corns, garlic and saute for few minutes.
 
 
 <div>
@@ -76,7 +76,7 @@ Add 1/2 tbsp of butter in a pan and add Cumin seeds, crushed Pepper Corns, Garli
 
 
 
-In a pressure cooker, add 1/2 tbsp of butter and add chopped Onions, Tomatoes, Carrots and Pumpkins. Saute for 5 minutes with medium flame and add a cup of water, the sauted Garlic mixture and pressure cook for 3 whistles.
+In a pressure cooker, add 1/2 tbsp of butter and add chopped onions, tomatoes, carrots and pumpkins. Saute for 5 minutes with medium flame and add a cup of water, the sauted garlic mixture and pressure cook for 3 whistles.
 
 
 
@@ -94,7 +94,7 @@ After it gets cooked, let it cool down. Blend it well, to make a puree out of it
 
 
 
-Melt 1 tbsp of butter in a pan and add a tbsp of Maida flour to it. Mix it well to ensure that  lumps doesn't get formed. Adding Maida will give the soup a silky texture. Finally, add the puree and Salt and bring it to a boil.  
+Melt 1 tbsp of butter in a pan and add a tbsp of maida flour to it. Mix it well to ensure that lumps doesn't get formed. Adding maida will give the soup a silky texture. Finally, add the puree and salt and bring it to a boil.  
 
 
 
