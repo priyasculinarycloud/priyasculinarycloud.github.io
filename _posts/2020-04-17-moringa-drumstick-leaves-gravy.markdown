@@ -154,7 +154,7 @@ Once done, add the masala paste to the drumstick leaves and let it boil for 5 mi
 
 
 <div>
-	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/8.jpg" />
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/8.jpg"  width="50%" height="50%"/>
 </div>
 <p/>
 
