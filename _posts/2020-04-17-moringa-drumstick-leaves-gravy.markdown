@@ -3,10 +3,9 @@ author: shanmu09
 comments: true
 date: 2020-04-17 16:29:26+00:00
 layout: post
-link: https://shanmugapriyam.wordpress.com/2020/04/18/moringa-drumstick-leaves-gravy/
 slug: moringa-drumstick-leaves-gravy
 title: Moringa / Drumstick leaves gravy (without dhal)
-wordpress_id: 226
+excerpt: Soup made with Pumpkin that goes well with fried bread.
 categories:
 - Food and Culinary
 ---
@@ -43,7 +42,7 @@ categories:
   * Red chillies - 2 
   * Curry leaves
   * Sambar powder - 1.5 tbsp
-  * Any cooking oil of your choice
+  * Oil
   * Salt
 
 
@@ -75,21 +74,20 @@ categories:
 
 
 
-Dry roast Jeera and Coriander seeds and keep the powder aside.
+Dry roast jeera and coriander seeds and keep the powder aside.
 
 
 
 
-
-
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200414164616213_cover.jpg?resize=2000%2C2000)
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200414165232109_cover-1.jpg?resize=2000%2C2000)
-
-
-
-
+<div class="img-row">
+     <div class="img-column">
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/1.jpg"  class="img-rounded-corner-sbs" />
+     </div>
+     <div class="img-column">
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/2.jpg" class="img-rounded-corner-sbs" />
+         </div>
+</div>
+<p/>
 
 
 
@@ -97,38 +95,41 @@ In a pan, add 2 tbsp of oil and saute the small and big onion pieces along with 
 
 
 
-
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200414164933034_cover.jpg?w=1024)
-
-
-
-
-
-Then, add tomatoes and fry for about 2 minutes. After that, add the grounded powder, Curry leaves, Sambar powder and saute them till the tomatoes become mushy.
+<div>
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/3.jpg"  class="img-rounded-corner-body"/>
+</div>
+<p/>
 
 
 
 
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00000portrait_00000_burst20200414165923875.jpg?w=1024)
-
+Then, add tomatoes and fry for about 2 minutes. After that, add the grounded powder, curry leaves, sambar powder and saute them till the tomatoes become mushy.
 
 
 
 
-At last, add grated coconut and roasted Channa dhal and saute it for 2 to 3 minutes and turn off the stove.
+<div>
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/4.jpg"  class="img-rounded-corner-body"/>
+</div>
+<p/>
 
 
 
 
+At last, add grated coconut and roasted channa dhal and saute it for 2 to 3 minutes and turn off the stove.
 
 
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200414170011458_cover.jpg?resize=2000%2C2000)
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200414170053810_cover-1.jpg?resize=2000%2C2000)
-
+<div class="img-row">
+     <div class="img-column">
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/5.jpg"  class="img-rounded-corner-sbs" />
+     </div>
+     <div class="img-column">
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/6.jpg" class="img-rounded-corner-sbs" />
+         </div>
+</div>
+<p/>
 
 
 
@@ -140,8 +141,10 @@ Let it cool down and then grind them into a fine paste of masala. Then, in  a pa
 
 
 
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200415073542618_cover.jpg?w=1024)
+<div>
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/7.jpg"  class="img-rounded-corner-body"/>
+</div>
+<p/>
 
 
 
@@ -150,16 +153,16 @@ Let it cool down and then grind them into a fine paste of masala. Then, in  a pa
 Once done, add the masala paste to the drumstick leaves and let it boil for 5 minutes. At last, temper it with mustard seeds. 
 
 
+<div>
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/8.jpg"  class="img-rounded-corner-end"/>
+</div>
+<p/>
 
 
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/circle-cropped-1.png?w=1024)
 
 
-
-
-
-Serve hot with rice and a veggie/poriyal of your choice.
+Serve hot with rice and a veggie / poriyal of your choice.
 
 
 
