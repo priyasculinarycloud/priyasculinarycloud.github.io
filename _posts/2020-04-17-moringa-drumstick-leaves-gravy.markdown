@@ -81,10 +81,10 @@ Dry roast jeera and coriander seeds and keep the powder aside.
 
 <div class="img-row">
      <div class="img-column">
-	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/rsz_211.jpg"  class="img-rounded-corner-sbs" />
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/rsz_221.jpg"  class="img-rounded-corner-sbs" />
      </div>
      <div class="img-column">
-	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/rsz_221.jpg" class="img-rounded-corner-sbs" />
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/rsz_211.jpg" class="img-rounded-corner-sbs" />
          </div>
 </div>
 <p/>
@@ -123,10 +123,10 @@ At last, add grated coconut and roasted channa dhal and saute it for 2 to 3 minu
 
 <div class="img-row">
      <div class="img-column">
-	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/5.jpg"  class="img-rounded-corner-sbs" />
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/rsz_5.jpg"  class="img-rounded-corner-sbs" />
      </div>
      <div class="img-column">
-	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/6.jpg" class="img-rounded-corner-sbs" />
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/rsz_6.jpg" class="img-rounded-corner-sbs" />
          </div>
 </div>
 <p/>
