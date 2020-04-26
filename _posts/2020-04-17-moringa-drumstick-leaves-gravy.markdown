@@ -81,10 +81,10 @@ Dry roast jeera and coriander seeds and keep the powder aside.
 
 <div class="img-row">
      <div class="img-column">
-	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/1.jpg"  class="img-rounded-corner-sbs" />
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/11.jpg"  class="img-rounded-corner-sbs" />
      </div>
      <div class="img-column">
-	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/2.jpg" class="img-rounded-corner-sbs" />
+	<img src="https://github.com/bbalakriz/bbalakriz.github.io/raw/master/images/moringa-leaves-gravy/21.jpg" class="img-rounded-corner-sbs" />
          </div>
 </div>
 <p/>
