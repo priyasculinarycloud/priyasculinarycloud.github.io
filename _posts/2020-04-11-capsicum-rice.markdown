@@ -111,10 +111,14 @@ In a frying pan - add oil, cut capsicum pieces and salt and fry for 5 minutes (_
 
 
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/img_20200411_111355_2-4.jpg)
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411104435477_cover.jpg)
-
+<div class="img-row">
+     <div class="img-column">
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/img_20200411_111355_2-4.jpg"  class="img-rounded-corner-sbs" />
+     </div>
+     <div class="img-column">
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411104435477_cover.jpg" class="img-rounded-corner-sbs" />
+         </div>
+</div>
 
 
 
@@ -125,13 +129,7 @@ Mix the cooked rice with the masala mixture and serve hot with fried papadams.
 
 
 
-
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411131957527_cover.jpg?w=1024)
-
-
-
-
-
-
-
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411131957527_cover.jpg"  class="img-rounded-corner-end"/>
+</div>
+<p/>
