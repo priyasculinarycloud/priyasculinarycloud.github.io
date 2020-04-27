@@ -84,13 +84,15 @@ Coarse grind the dry roasted ingredients.
 
 
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200411103702233_cover_2-1.jpg?resize=2000%2C2000)
-
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg)
-
-
-
+<div class="img-row">
+     <div class="img-column">
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200411103702233_cover_2-1.jpg"  class="img-rounded-corner-sbs" />
+     </div>
+     <div class="img-column">
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg" class="img-rounded-corner-sbs" />
+         </div>
+</div>
+<p/>
 
 
 
