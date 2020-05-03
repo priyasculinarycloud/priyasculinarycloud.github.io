@@ -25,22 +25,16 @@ categories:
     background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
 }
 	
-#bottom {
+#break {
     clear:both;
 }
 
-.img_1-1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200411103702233_cover_2-1.jpg');}
-.img_1-2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg');}
+.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200411103702233_cover_2-1.jpg');}
+.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg');}
+.img_3{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/img_20200411_111355_2-4.jpg');}
+.img_4{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411104435477_cover.jpg');}
+
 </style>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -97,30 +91,11 @@ categories:
 
 Coarse grind the dry roasted ingredients.
 
-<div class="square img_1-1">
+<div class="square img_1">
 </div>
-<div class="square img_1-2">
+<div class="square img_2">
 </div>
-
-<div id="bottom"> </div>
-
-
-
-
-<div class="img-row">
-     <div class="img-column">
-	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200411103702233_cover_2-1.jpg"  class="img-rounded-corner-sbs" />
-     </div>
-     <div class="img-column">
-	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg" class="img-rounded-corner-sbs" />
-         </div>
-</div>
-<p/>
-
-
-
-
-
+<div id="break"> </div>
 
 <p/>
 In a frying pan - add oil, cut capsicum pieces and salt and fry for 5 minutes (_without allowing the capsicum pieces to become too soft_). Then, add the coarsely pounded powder and garam masala powder and mix well. 
@@ -128,20 +103,11 @@ In a frying pan - add oil, cut capsicum pieces and salt and fry for 5 minutes (_
 
 
 
-
-
-<div class="img-row">
-     <div class="img-column">
-	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/img_20200411_111355_2-4.jpg"  class="img-rounded-corner-sbs" />
-     </div>
-     <div class="img-column">
-	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411104435477_cover.jpg" class="img-rounded-corner-sbs" />
-         </div>
+<div class="square img_3">
 </div>
-
-
-
-
+<div class="square img_4">
+</div>
+<div id="break"> </div>
 
 
 Mix the cooked rice with the masala mixture and serve hot with fried papadams.
