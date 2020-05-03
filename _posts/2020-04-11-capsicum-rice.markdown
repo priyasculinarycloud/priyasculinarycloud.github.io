@@ -23,6 +23,10 @@ categories:
     background-repeat:no-repeat;
     background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
 }
+	
+#bottom {
+    clear:both;
+}
 
 .img_1-1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200411103702233_cover_2-1.jpg');}
 .img_1-2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg');}
@@ -97,10 +101,8 @@ Coarse grind the dry roasted ingredients.
 <div class="square img_1-2">
 </div>
 
+<div id=bottom"> </div>
 
-<p/>
-<br>
-<p/>
 
 
 
