@@ -16,9 +16,9 @@ categories:
 	.square {
     float:left;
     position: relative;
-    width: 40%;
+    width: 50%;
     padding-bottom : 30%; /* = width for a 1:1 aspect ratio */
-    margin:1.66%;
+    margin:1%;
     background-position:center center;
     background-repeat:no-repeat;
     background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
@@ -118,7 +118,7 @@ Coarse grind the dry roasted ingredients.
 
 
 
-
+</p>
 In a frying pan - add oil, cut capsicum pieces and salt and fry for 5 minutes (_without allowing the capsicum pieces to become too soft_). Then, add the coarsely pounded powder and garam masala powder and mix well. 
 
 
