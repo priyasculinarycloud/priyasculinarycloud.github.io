@@ -17,6 +17,7 @@ categories:
     float:left;
     position: center;
     width: 40%;
+    border-radius:5%;
     padding-bottom : 40%; /* = width for a 1:1 aspect ratio */
     margin:0.5%;
     background-position:center center;
