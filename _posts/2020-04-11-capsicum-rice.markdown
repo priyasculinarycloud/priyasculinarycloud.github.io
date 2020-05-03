@@ -117,7 +117,7 @@ Coarse grind the dry roasted ingredients.
 
 
 
-</p>
+<p/>
 In a frying pan - add oil, cut capsicum pieces and salt and fry for 5 minutes (_without allowing the capsicum pieces to become too soft_). Then, add the coarsely pounded powder and garam masala powder and mix well. 
 
 
