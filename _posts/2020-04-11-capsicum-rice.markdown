@@ -16,7 +16,7 @@ categories:
 	.square {
     float:left;
     position: relative;
-    width: 30%;
+    width: 40%;
     padding-bottom : 30%; /* = width for a 1:1 aspect ratio */
     margin:1.66%;
     background-position:center center;
@@ -24,10 +24,9 @@ categories:
     background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
 }
 
-.img_1-1{background-image:url('https://farm4.staticflickr.com/3766/12953056854_b8cdf14f21.jpg');}
-.img_1-2{background-image:url('https://farm7.staticflickr.com/6092/6227418584_d5883b0948.jpg');}
+.img_1-1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200411103702233_cover_2-1.jpg');}
+.img_1-2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200411105404339_cover-2.jpg');}
 .img_1-3{background-image:url('https://farm8.staticflickr.com/7187/6895047173_d4b1a0d798.jpg');}
-	
 </style>
 
 
@@ -98,8 +97,7 @@ Coarse grind the dry roasted ingredients.
 </div>
 <div class="square img_1-2">
 </div>
-<div class="square img_1-3">
-</div>
+
 
 
 
@@ -124,7 +122,8 @@ Coarse grind the dry roasted ingredients.
 In a frying pan - add oil, cut capsicum pieces and salt and fry for 5 minutes (_without allowing the capsicum pieces to become too soft_). Then, add the coarsely pounded powder and garam masala powder and mix well. 
 
 
-
+<div class="square img_1-3">
+</div>
 
 
 
