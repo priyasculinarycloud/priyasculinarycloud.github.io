@@ -6,7 +6,7 @@ excerpt: High protein adai dosa with multiple types of dhal
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/04/28/adai-dosa/
 slug: adai-dosa
-title: Adai dosa
+title: Adai Dosa
 wordpress_id: 611
 categories:
 - Food and Culinary
