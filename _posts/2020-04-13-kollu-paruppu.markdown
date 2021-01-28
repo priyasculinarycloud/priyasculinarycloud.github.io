@@ -12,6 +12,43 @@ categories:
 - Food and Culinary
 ---
 
+<style>
+.square {
+    float:left;
+    position: center;
+    width: 49%;
+    border-radius:5%;
+    padding-bottom : 40%; /* = width for a 1:1 aspect ratio */
+    margin:0.5%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+	
+#break {
+    clear:both;
+}
+
+.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_074019-1.jpg');}
+.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_075653-1.jpg');}
+.img_3{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_074554-1.jpg?resize=2000%2C2000');}
+.img_4{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_074617-1.jpg?resize=2000%2C2000');}
+
+.resize_fit_center {
+    max-width:60%;
+    max-height:60%;
+    vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:5%;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+}
+</style>
 
 
 
@@ -27,7 +64,7 @@ categories:
 
 
 
-**Ingredients:**
+## Ingredients:
 
 
 
@@ -35,14 +72,14 @@ categories:
 
 
 
-  * Kollu - 3/4 cup
+  * Kollu (Horse gram) - 3/4 cup
   * Small onions - 8
   * Curry leaves
   * Tomato - 1
   * Garlic - 2
   * Turmeric powder - 1/2 tbsp
-  * Red Chillies - 3
-  * Water for cooking dhal - 2 cups
+  * Red chillies - 3
+  * Water for cooking kollu - 2 cups
   * Gingelly oil
   * Mustard seeds
   * Salt
@@ -52,7 +89,7 @@ categories:
 
 
 
-**Dry Roast and Grind:**
+## Dry roast and grind:
 
 
 
@@ -68,7 +105,7 @@ categories:
 
 
 
-**Preparation:**
+## Preparation:
 
 
 
@@ -81,50 +118,24 @@ Dry roast the ingredients. Crush them into powder and keep aside.
 
 
 
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_074347-1.jpg?w=1024)
-
-
-
-
-
-Pressure cook Kollu Paruppu by adding turmeric and 2 cups of water. After it gets cooked, let it cool down. Then, grind it in a Mixie jar for 2 to 3 pulses and keep it aside.
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_074347-1.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
 
 
 
 
+Pressure cook kollu by adding turmeric and 2 cups of water. After it gets cooked, let it cool down. Then, grind it in a mixie jar for 2 to 3 pulses and keep it aside.
 
 
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_074019-1.jpg)
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_075653-1.jpg)
-
-
-
-
-
-
-
-In a pan, add Gingelly oil and Mustard seeds. Then, add Garlic, Small onions, Curry leaves and saute them for few minutes. 
-
-
-
-
-
-
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_074554-1.jpg?resize=2000%2C2000)
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_074617-1.jpg?resize=2000%2C2000)
-
-
-
-
-
-
-
-Then, add Tomatoes and saute until it becomes mashy. After that, add the grounded powder and Turmeric powder and saute for a minute. 
+<div class="square img_1">
+</div>
+<div class="square img_2">
+</div>
+<div id="break"> </div>
+<p/>
 
 
 
@@ -134,6 +145,32 @@ Then, add Tomatoes and saute until it becomes mashy. After that, add the grounde
 
 
 
+In a pan, add gingelly oil and mustard seeds. Then, add garlic, small onions, curry leaves and saute them for few minutes. 
+
+
+
+
+
+<div class="square img_3">
+</div>
+<div class="square img_4">
+</div>
+<div id="break"> </div>
+<p/>
+
+
+
+
+
+
+
+Then, add tomatoes and saute until it becomes mashy. After that, add the grounded powder and turmeric powder and saute for a minute. 
+
+
+<div>
+  <img src="https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_075604.jpg"  class="resize_fit_center"/>
+</div>
+<p/>
 
 
 
@@ -144,13 +181,18 @@ Then, add Tomatoes and saute until it becomes mashy. After that, add the grounde
 
 
 
-Finally, add the mashed dhal and Salt and let it cook for 10 minutes. Serve hot with ghee.
 
 
 
 
+Finally, add the mashed kollu and salt and let it cook for 10 minutes. Serve hot with ghee.
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_132904.jpg?w=1024)
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/img_20200413_132904.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
 
 
 

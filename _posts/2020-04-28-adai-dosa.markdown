@@ -1,0 +1,163 @@
+---
+author: shanmu09
+comments: true
+date: 2020-04-28 11:36:27+00:00
+excerpt: High protein adai dosa with multiple types of dhal
+layout: post
+link: https://shanmugapriyam.wordpress.com/2020/04/28/adai-dosa/
+slug: adai-dosa
+title: Adai dosa
+wordpress_id: 611
+categories:
+- Food and Culinary
+---
+
+<style>
+.square {
+    float:left;
+    position: center;
+    width: 49%;
+    border-radius:5%;
+    padding-bottom : 40%; /* = width for a 1:1 aspect ratio */
+    margin:0.5%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+	
+#break {
+    clear:both;
+}
+
+.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200428085016393_cover.jpg');}
+.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200428085448168_cover-1.jpg');}
+
+
+.resize_fit_center {
+    max-width:60%;
+    max-height:60%;
+    vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:5%;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+}
+</style>
+
+
+## Ingredients:
+
+
+
+
+
+
+
+  * Idli rice - 1/2 cup
+  * Chana dhal - 1/4 cup
+  * Urad dhal -2 tbsp
+  * Fenugreek seeds - 1/2 tbsp
+  * Toor dhal - 1/4  cup
+  * Horse gram/kollu - 2 tbsp
+  * Chick peas - 1/4 cup
+  * Small onions - 4 (optional)
+  * Ginger - Small piece
+  * Jeera - 1 tbsp
+  * Red chilli - 1
+  * Chopped onion (optional)
+  * Drumstick leaves (optional)
+  * Salt
+
+
+
+
+
+
+## Preparation:
+
+
+
+
+
+
+
+Soak idli rice along with the aforementioned dhals and a red chilli for 4 hours.
+
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200427160820574_cover-1.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
+
+
+
+
+
+
+Grind the soaked ingredients along with ginger, jeera and salt into smooth/coarse batter (as per your preference) in a mixer grinder. **Tip: Optionally, add small onions while grinding the ingredients to get crispier dosa.**
+
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200427204209216_cover.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
+
+
+
+
+
+
+
+You may make plain adai dosas with the batter or you may add chopped onions and/or chopped drumstick leaves to make it even more tastier.
+
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200428075842938_cover.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
+
+
+
+
+
+
+In a dosa tawa, add 1 big spoon/ladle of batter and sprinkle oil and let it cook on both the sides.
+
+
+
+<div class="square img_1">
+</div>
+<div class="square img_2">
+</div>
+<div id="break"> </div>
+<p/>
+
+
+
+
+
+
+
+
+
+
+
+
+Serve hot with coconut chutney or any other chutney/sambar of your choice.
+
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200428090601800_cover.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
+
+

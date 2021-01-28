@@ -1,0 +1,144 @@
+---
+author: shanmu09
+comments: true
+date: 2020-06-06 10:45:57+00:00
+excerpt: Dosa made with ragi flour
+layout: post
+link: https://shanmugapriyam.wordpress.com/2020/06/06/ragi-roti/
+slug: ragi-roti
+title: Ragi Roti
+wordpress_id: 994
+categories:
+- Food and Culinary
+---
+<style>
+.square {
+    float:left;
+    width: 49%;
+    border-radius:5%;
+    padding-bottom : 40%; /* = width for a 1:1 aspect ratio */
+    margin:0.5%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+	
+#break {
+    clear:both;
+}
+
+.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/05/00100lrportrait_00100_burst20200522164210922_cover.jpg');}
+.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/05/00100lrportrait_00100_burst20200522165044946_cover.jpg');}
+.img_3{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/05/00000portrait_00000_burst20200522190124295.jpg');}
+.img_4{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/05/00100lrportrait_00100_burst20200522190132574_cover.jpg');}
+
+
+.resize_fit_center {
+    max-width:60%;
+    max-height:60%;
+    vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:5%;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+}
+</style>
+
+
+
+
+## Ingredients:
+
+
+
+
+
+
+
+  * Ragi flour - 2 cups
+  * Roasted gram dhal powder - 2 tbsp
+  * Peanut powder - 2 tbsp
+  * Red chilli powder - 2 tsp
+  * Chopped onion - 1 cup
+  * Chopped curry leaves
+  * Asafoetida - a pinch
+  * Salt
+  * Oil
+
+
+
+
+
+
+## Preparation:
+
+
+
+
+
+
+
+Take a bowl and mix ragi flour, gram dhal flour, peanut powder, red chilli powder, asafoetida and salt. To that, add chopped onion and curry leaves. 
+
+
+
+
+<div class="square img_1">
+</div>
+<div class="square img_2">
+</div>
+<div id="break"> </div>
+<p/>
+
+
+
+
+
+
+
+
+
+Add water and knead it to make dough. Make equal sized balls out of it. Take a banana leaf/non-stick sheet and apply oil over it. Place a ragi ball in it and press it by hand to make a roti.
+
+
+
+
+
+<div class="square img_3">
+</div>
+<div class="square img_4">
+</div>
+<div id="break"> </div>
+<p/>
+
+
+
+
+
+
+
+
+
+Heat the dosa pan and place the ragi roti on it. Apply oil and let it cook well on both sides in low flame.
+
+
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/05/00100lrportrait_00100_burst20200522191345227_cover.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
+
+
+
+
+
+Serve hot as such or with any chutney.
+
+
+

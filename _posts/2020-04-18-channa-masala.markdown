@@ -2,18 +2,67 @@
 author: shanmu09
 comments: true
 date: 2020-04-18 12:01:37+00:00
-excerpt: A tasty gravy that goes well with Dosa/Chapathi/Roti/Poori.
+excerpt: A tasty gravy that goes well with dosa/chapathi/roti/poori.
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/04/18/channa-masala/
-slug: channa-masala
-title: Channa Masala
+slug: chana-masala
+title: Chana Masala
 wordpress_id: 248
 categories:
 - Food and Culinary
 ---
 
 
+<style>
+.square {
+    float:left;
+    position: center;
+    width: 49%;
+    border-radius:5%;
+    padding-bottom : 40%; /* = width for a 1:1 aspect ratio */
+    margin:0.5%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+	
+#break {
+    clear:both;
+}
 
+.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416073204173_cover-2.jpg?resize=2000%2C2000');}
+.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416073313166_cover-2.jpg?resize=2000%2C2000');}
+.img_3{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416074519058_cover-1.jpg?resize=2000%2C2000');}
+.img_4{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416074107510_cover.jpg?resize=2000%2C2000');}
+.img_5{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416100038844_cover-1.jpg?resize=2000%2C2000');}
+.img_6{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200416100347205_cover-1.jpg?resize=2000%2C2000');}
+
+
+.resize_fit_center {
+    max-width:60%;
+    max-height:60%;
+    vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:50%;
+}
+
+.resize_fit_center_square {
+    max-width:60%;
+    max-height:60%;
+    vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:5%;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+}
+</style>
 
 
 
@@ -35,7 +84,7 @@ categories:
 
 
 
-  * Channa - 1 cup
+  * Chana (Chickpeas) - 1 cup
   * Big Onion - 1
   * Tomato - 2 (medium size)
   * Green chilli  - 1 or 2
@@ -83,59 +132,61 @@ categories:
 
 
 
-Soak Channa for 8 hrs (overnight) and add 3 cups of Water, Salt and boil it in a pressure cooker, till it becomes soft. Don't strain the water. Rather, use it while cooking the gravy.
+Soak chana for 8 hrs (overnight) and add 3 cups of water, salt and boil it in a pressure cooker, till it becomes soft. Don't strain the water. Rather, use it while cooking the gravy.
 
 
 
 
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200416071742947_cover-1.jpg?w=1003)
-
-
-
-
-
-In a pan, add Oil and heat it. Once hot, add Cinnamon sticks, Cloves and Cardamom. Then, add Onions, Curry leaves and saute for few minutes.
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200416071742947_cover-1.jpg?w=1003"  class="resize_fit_center_square"/>
+</div>
+<p/>
 
 
+
+In a pan, add oil and heat it. Once hot, add cinnamon sticks, cloves and cardamom. Then, add onions, curry leaves and saute for few minutes.
 
 
 
 
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416073204173_cover-2.jpg?resize=2000%2C2000)
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416073313166_cover-2.jpg?resize=2000%2C2000)
-
-
-
-
-
-
-
-Then, add Ginger Garlic paste and fry till the raw smell goes off.
-
-
-
-
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416073853474_cover-2.jpg?w=1024)
-
-
-
-
-
-Add the chopped Tomatoes and the aforementioned masala powders and cook well.
+<div class="square img_1">
+</div>
+<div class="square img_2">
+</div>
+<div id="break"> </div>
+<p/>
 
 
 
 
 
 
+Then, add ginger garlic paste and fry till the raw smell goes off.
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416074519058_cover-1.jpg?resize=2000%2C2000)
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416074107510_cover.jpg?resize=2000%2C2000)
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416073853474_cover-2.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
+
+
+
+
+
+
+Add chopped tomatoes and the aforementioned masala powders and cook well.
+
+
+
+
+<div class="square img_3">
+</div>
+<div class="square img_4">
+</div>
+<div id="break"> </div>
+<p/>
+
 
 
 
@@ -148,35 +199,27 @@ Add little water for the masalas to cook.
 
 
 
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416074649926_cover-1.jpg?w=1024)
-
-
-
-
-
-Finally, add the boiled Channa, Salt and bring it to a boil. Add Corriander leaves and turn off the stove.
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416074649926_cover-1.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
 
 
 
 
 
 
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416100038844_cover-1.jpg?resize=2000%2C2000)
-
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200416100347205_cover-1.jpg?resize=2000%2C2000)
+Finally, add the boiled chana, salt and bring it to a boil. Add corriander leaves and turn off the stove.
 
 
 
 
-
-
-
-
-
-
-****_Adjust the spiciness as require_d** **
+<div class="square img_5">
+</div>
+<div class="square img_6">
+</div>
+<div id="break"> </div>
+<p/>
 
 
 
@@ -187,11 +230,27 @@ Finally, add the boiled Channa, Salt and bring it to a boil. Add Corriander leav
 
 
 
-Serve hot with Roti/Poori/Chapathi/Dosa.
+
+
+**_Adjust the spiciness as required_**
 
 
 
 
 
-![](https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416123814307_cover-1.jpg?w=1024)
+
+
+
+
+
+Serve hot with roti/poori/chapathi/dosa.
+
+
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200416123814307_cover-1.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
+
 

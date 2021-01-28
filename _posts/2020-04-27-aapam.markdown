@@ -1,0 +1,151 @@
+---
+author: shanmu09
+comments: true
+date: 2020-04-27 11:00:34+00:00
+excerpt: Soft and juicy aapam
+layout: post
+link: https://shanmugapriyam.wordpress.com/2020/04/27/aapam/
+slug: aapam
+title: Aapam
+wordpress_id: 287
+categories:
+- Food and Culinary
+---
+
+<style>
+.square3 {
+    float:left;
+    position: center;
+    width: 32%;
+    border-radius:5%;
+    padding-bottom : 40%; /* = width for a 1:1 aspect ratio */
+    margin:0.5%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+	
+.square2 {
+    float:left;
+    position: center;
+    width: 49%;
+    border-radius:5%;
+    padding-bottom : 40%; /* = width for a 1:1 aspect ratio */
+    margin:0.5%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+	
+#break {
+    clear:both;
+}
+
+.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200418095424196_cover.jpg?resize=2000%2C2000');}
+.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00000img_00000_burst20200418100014310_cover.jpg?resize=2000%2C2000');}
+.img_3{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200418100654789_cover-1.jpg?w=1024');}
+.img_4{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200418201351334_cover.jpg');}
+.img_5{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200418201421800_cover.jpg');}
+
+
+.resize_fit_center {
+    max-width:60%;
+    max-height:60%;
+    vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:5%;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+}
+</style>
+
+
+
+## Ingredients:
+
+
+
+
+
+
+
+  * Raw rice - 1 cup
+  * Idli rice - 1 cup
+  * Grated coconut - 1 cup
+  * Urad dhal - 1/4 cup
+  * Vendhayam (Fenugreek) - 1 tbsp
+  * Salt
+
+
+
+
+
+
+## Preparation:
+
+
+
+
+
+
+
+Soak rice, urad dhal, vendhayam for 8 hours (overnight) and grind it into smooth batter along with grated coconut and a handful of cooked rice. Adding cooked rice will give softness to aapam. You may chose to add javarisi (sago) instead of cooked rice. 
+
+
+
+
+<div class="square3 img_1">
+</div>
+<div class="square3 img_2">
+</div>
+<div class="square3 img_3">
+</div>
+<div id="break"> </div>
+<p/>
+
+
+
+
+
+
+
+
+
+
+
+
+In an aapam kadai/pan, pour the batter and rotate the kadai in circular motion to make aapams. **Tip: The batter should be of watery consistency and should not be thick like that of the one used for making idli/dosa.**
+
+
+
+
+<div class="square2 img_4">
+</div>
+<div class="square2 img_5">
+</div>
+<div id="break"> </div>
+<p/>
+
+
+
+
+
+
+
+
+
+Serve hot with coconut chutney/stew.
+
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/04/00100lrportrait_00100_burst20200418201839112_cover.jpg?w=1024"  class="resize_fit_center"/>
+</div>
+<p/>
+
+

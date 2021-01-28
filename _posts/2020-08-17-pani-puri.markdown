@@ -1,0 +1,253 @@
+---
+author: shanmu09
+comments: true
+date: 2020-08-17 11:13:26+00:00
+excerpt: Hollow puri, filled with a mixture of flavored water, tamarind chutney, chilli,
+  chaat masala, potato, onion and chickpeas
+layout: post
+link: https://shanmugapriyam.wordpress.com/2020/08/17/pani-puri/
+slug: pani-puri
+title: Pani Puri
+wordpress_id: 1184
+categories:
+- Food and Culinary
+---
+<style>
+.square {
+    float:left;
+    width: 49%;
+    border-radius:5%;
+    padding-bottom : 40%; /* = width for a 1:1 aspect ratio */
+    margin:0.5%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+	
+#break {
+    clear:both;
+}
+
+.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815164129449_cover.jpg');}
+.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815165818611_cover.jpg');}
+.img_3{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815170728035_cover.jpg');}
+.img_4{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00000img_00000_burst20200815170117228_cover.jpg');}
+.img_5{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00000img_00000_burst20200815171031134_cover.jpg');}
+.img_6{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815170955250_cover.jpg');}
+.img_7{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00000img_00000_burst20200815171448873_cover.jpg');}
+.img_8{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00000img_00000_burst20200815171504314_cover.jpg');}
+.img_9{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00000portrait_00000_burst20200815172329366.jpg');}
+.img_10{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815170728035_cover-1.jpg');}
+.img_11{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815172917858_cover.jpg');}
+.img_12{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815172941513_cover.jpg');}
+.img_13{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815172810535_cover.jpg');}
+.img_14{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815180808990_cover.jpg');}
+
+
+.resize_fit_center {
+    max-width:60%;
+    max-height:60%;
+    vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:5%;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+}
+</style>
+
+
+
+## Ingredients:
+
+
+
+
+
+
+
+  * Pani puri vathal - 15
+  * Potatoes - 3
+  * Cooked chickpeas - 1 cup
+  * Onion - 1
+  * Coriander leaves 
+  * Salt
+
+
+
+
+
+
+## For pani:
+
+
+
+
+
+
+
+  * Mint leaves - 1/4 cup tightly packed
+  * Coriander leaves - 1/4 cup loosely packed
+  * Ginger 
+  * Green chilli - 1
+  * Cumin powder - 1/2 tsp
+  * Coriander powder - 1/4 tsp
+  * Pepper powder - 1/4 tsp
+  * Chaat masala - 1/2 tsp (optional)
+  * Tamarind - 3 tbsp
+  * Jaggery - 3 tbsp
+  * Water - 3 cups
+  * Salt
+
+
+
+
+
+
+## For sweet chutney:
+
+
+
+
+
+
+
+  * Dates - 14
+  * Tamarind - 1 tbsp
+  * Jaggery - 3 tbsp
+  * Cumin powder - 1/2 tsp
+  * Chaat masala - 1/2 tsp
+  * Salt
+
+
+
+
+
+
+## Preparation:
+
+
+
+
+
+
+
+Grind the mint leaves, coriander leaves, ginger and chilli into a smooth paste. To that paste, add all the powders listed under the section "For pani", along with jaggery. Then, filter and add the tamarind juice extract. Finally, add 3 cups of water to that and add salt for taste. The water can be refrigerated for later usage as well.
+
+
+
+
+<div class="square img_1">
+</div>
+<div class="square img_2">
+</div>
+<div class="square img_3">
+</div>
+<div class="square img_4">
+</div>
+<div class="square img_5">
+</div>
+<div class="square img_6">
+</div>
+<div id="break"> </div>
+<p/>
+
+<!-- Wrong image
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/08/00000portrait_00000_burst20200815172329366-1.jpg"  class="resize_fit_center"/>
+</div>
+<p/>
+-->
+
+
+
+
+
+
+
+For sweet chutney, boil the dates and make a smooth paste out of it. Extract tamarind juice and mix it with the dates and jagger powder. Adding more jaggery will enhance the taste. Boil them in a pan and once boiled, add salt, cumin powder and chaat masala and boil till you get the consistency of sauce. 
+
+
+
+
+
+
+
+<div class="square img_7">
+</div>
+<div class="square img_8">
+</div>
+<div class="square img_9">
+</div>
+<div class="square img_10">
+</div>
+<div class="square img_11">
+</div>
+<div class="square img_12">
+</div>
+<div id="break"> </div>
+<p/>
+
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815174248641_cover.jpg"  class="resize_fit_center"/>
+</div>
+<p/>
+
+
+
+
+
+
+
+
+
+Boil the chickpeas and potatoes (soak the chickpeas for 8 hours). Chop the onions and coriander leaves and keep aside. 
+
+
+
+<div class="square img_13">
+</div>
+<div class="square img_14">
+</div>
+<div id="break"> </div>
+<p/>
+
+
+
+
+
+
+For making puris, fry the pani puri vathal in oil. 
+
+
+
+
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/08/00100lrportrait_00100_burst20200815185603409_cover.jpg"  class="resize_fit_center"/>
+</div>
+<p/>
+
+
+
+
+
+
+
+
+Make a small hole in the puri and stuff with the boiled chickpeas and potatoes, onion, coriander leaves, red chutney and curd (if you like). Serve with pani.
+
+
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2020/08/00000img_00000_burst20200815192505624_cover.jpg?w=993"  class="resize_fit_center"/>
+</div>
+<p/>

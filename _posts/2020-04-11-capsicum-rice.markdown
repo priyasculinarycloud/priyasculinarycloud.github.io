@@ -2,7 +2,7 @@
 author: shanmu09
 comments: true
 date: 2020-04-11 07:59:03+00:00
-excerpt: A South Indian cuisine with succulent pieces of capsicums that kids would
+excerpt: A south Indian cuisine with succulent pieces of capsicums that kids would
   love to relish for lunch.
 layout: post
 slug: capsicum-rice
@@ -16,7 +16,7 @@ categories:
 .square {
     float:left;
     position: center;
-    width: 40%;
+    width: 48%;
     border-radius:5%;
     padding-bottom : 40%; /* = width for a 1:1 aspect ratio */
     margin:0.5%;
@@ -39,7 +39,7 @@ categories:
 
 
 
-**Ingredients:**
+## Ingredients:
 
 
 
@@ -47,7 +47,7 @@ categories:
 
 
 
-  * Red/Green/Yellow capsicum - 2 (Medium Sized)
+  * Red/Green/Yellow capsicum - 2 (medium sized)
   * Cooked rice - 2 cups
   * Gingelly oil 
   * Garam masala powder - 1/2 tbsp
@@ -58,7 +58,7 @@ categories:
 
 
 
-**Dry roast:**
+## Dry roast:
 
 
 
@@ -81,7 +81,7 @@ categories:
 
 
 
-**Preparation:**
+## Preparation:
 
 
 
@@ -108,7 +108,7 @@ In a frying pan - add oil, cut capsicum pieces and salt and fry for 5 minutes (_
 <div class="square img_4">
 </div>
 <div id="break"> </div>
-
+<p/>
 
 Mix the cooked rice with the masala mixture and serve hot with fried papadams.
 
