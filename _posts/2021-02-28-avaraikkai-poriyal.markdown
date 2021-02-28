@@ -65,7 +65,7 @@ categories:
   * Avaraikkai - 1/4 kg
   * Onion - 1
   * Mustard seeds - 1 tsp
-  * Channa dhal - 2 tsp
+  * Chana dhal - 2 tsp
   * Split urad dhal - 2 tsp
   * Curry leaves
   * Ginger - 1/4 inch
@@ -89,7 +89,7 @@ categories:
 
 
 
-Add oil in a kadai and after it gets heated, crackle the mustard seeds and fry chanba dhal and urad dhal for 1 minute. To that, add curry leaves, green chilly, ginger, onion and saute well.
+Add oil in a kadai and after it gets heated, crackle the mustard seeds and fry chana dhal and urad dhal for 1 minute. To that, add curry leaves, green chilly, ginger, onion and saute well.
 
 
 
