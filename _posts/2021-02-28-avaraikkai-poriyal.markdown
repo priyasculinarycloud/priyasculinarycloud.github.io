@@ -114,7 +114,7 @@ Add oil in a kadai and after it gets heated, crackle the mustard seeds and fry c
 
 
 
-To that, add the chopped avaraikai, salt, sambar powder, turmeric powder and cook well by sprinkling water. Finally, add the grated coconut and switch off the flame. 
+To that, add the chopped avaraikai, salt, sambar powder, turmeric powder and cook well by sprinkling water. Finally, add the grated coconut and turn off the flame. 
 
 
 
