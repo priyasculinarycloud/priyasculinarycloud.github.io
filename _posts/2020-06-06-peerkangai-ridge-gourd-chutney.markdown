@@ -6,7 +6,7 @@ excerpt: Quick and easy chutney with ridge gourd
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/06/06/peerkangai-ridge-gourd-chutney/
 slug: peerkangai-ridge-gourd-chutney
-title: Peerkangai / Ridge Gourd Chutney
+title: Peerkangai (Ridge Gourd) Chutney
 wordpress_id: 980
 categories:
 - Food and Culinary
