@@ -5,7 +5,7 @@ date: 2021-02-28 09:14:16+00:00
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/mixed-vegetable-uthapam/
 slug: mixed-vegetable-uthapam
-title: Mixed vegetable uthapam
+title: Mixed Vegetable Uthapam
 wordpress_id: 1306
 categories:
 - Food and Culinary
