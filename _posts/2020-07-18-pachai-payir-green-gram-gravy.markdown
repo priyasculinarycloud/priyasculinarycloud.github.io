@@ -6,7 +6,7 @@ excerpt: Simple green gram gravy, packed with healthy nutrients
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/07/18/pachai-payir-green-gram-gravy/
 slug: pachai-payir-green-gram-gravy
-title: Pachai Payir / Green Gram Gravy
+title: Pachai Payir (Green Gram) Gravy
 wordpress_id: 1110
 categories:
 - Food and Culinary
