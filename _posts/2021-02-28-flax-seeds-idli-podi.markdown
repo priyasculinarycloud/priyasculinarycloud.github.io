@@ -81,7 +81,7 @@ categories:
 
 
 
-Gather all the ingredients and keep it ready. Heat a tsp of oil in a pan and add the chana dhal and urad dhal and roast the mixture. Then, remove it from the pan and let it cool down. **Tip: Donot roast it too much as it will burn out**
+Gather all the ingredients and keep it ready. Heat a tsp of oil in a pan and add the chana dhal and urad dhal and roast the mixture. Then, remove it from the pan and let it cool down. **Tip: Donot roast it too much as it will burn out**.
 
 
 
@@ -93,7 +93,7 @@ Gather all the ingredients and keep it ready. Heat a tsp of oil in a pan and add
 
 
 
-Add flax seeds and roast till it splutters. Once roasted, remove it from the pan.
+Then, add flax seeds to the pan and roast it until it splutters. Once roasted, remove it from the pan.
 
 
 
