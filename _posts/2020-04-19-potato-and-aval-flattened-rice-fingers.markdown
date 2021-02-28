@@ -6,7 +6,7 @@ excerpt: Deep fried potato fingers made with Aval (flattened rice) and spices.
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/04/19/potato-and-aval-flattened-rice-fingers/
 slug: potato-and-aval-flattened-rice-fingers
-title: Potato & Aval / Flattened Rice Fingers
+title: Potato & Aval (Flattened Rice) Fingers
 wordpress_id: 363
 categories:
 - Food and Culinary
