@@ -148,7 +148,7 @@ In a heavy bottomed pan / kadai, add gingelly oil and cook the split brinjal.
 
 
 
-After the brinjal gets cooked, add the masala paste, salt and let it boil.
+After the brinjal gets cooked, add the masala paste, salt and let it boil. Finally, temper it with mustard seeds and serve hot with rice.
 
 
 <div>
@@ -157,6 +157,6 @@ After the brinjal gets cooked, add the masala paste, salt and let it boil.
 <p/>
 
 
-Finally, temper it with mustard seeds and serve hot with rice.
+
 
 
