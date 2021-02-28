@@ -27,10 +27,8 @@ categories:
     clear:both;
 }
 
-.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/02/00100lrportrait_00100_burst20210126171908339_cover-1.jpg?resize=2000%2C2000');}
-.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/02/00100lrportrait_00100_burst20210126172505997_cover.jpg?resize=2000%2C2000');}
-.img_3{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/02/00100lrportrait_00100_burst20210126173401386_cover.jpg?resize=2000%2C2000');}
-.img_4{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/02/00100lrportrait_00100_burst20210126173617807_cover.jpg?resize=2000%2C2000');}
+.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/02/00100lrportrait_00100_burst20210126173401386_cover.jpg?resize=2000%2C2000');}
+.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/02/00100lrportrait_00100_burst20210126173617807_cover.jpg?resize=2000%2C2000');}
 
 
 .resize_fit_center {
@@ -87,6 +85,10 @@ Gather all the ingredients and keep it ready. Heat a tsp of oil in a pan and add
 
 
 
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2021/02/00100lrportrait_00100_burst20210126172505997_cover.jpg?resize=2000%2C2000"  class="resize_fit_center"/>
+</div>
+<p/>
 
 
 
@@ -96,6 +98,10 @@ Add flax seeds and roast till it splutters. Once roasted, remove it from the pan
 
 
 
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2021/02/00100lrportrait_00100_burst20210126171908339_cover-1.jpg?resize=2000%2C2000"  class="resize_fit_center"/>
+</div>
+<p/>
 
 
 
@@ -110,10 +116,6 @@ Then, roast the red chillies, garlic, asafoetida and tamarind with a teaspoon of
 <div class="square img_1">
 </div>
 <div class="square img_2">
-</div>
-<div class="square img_3">
-</div>
-<div class="square img_4">
 </div>
 <div id="break"> </div>
 <p/>
