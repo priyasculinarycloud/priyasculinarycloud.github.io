@@ -4,7 +4,7 @@ comments: true
 date: 2020-04-17 16:29:26+00:00
 layout: post
 slug: moringa-drumstick-leaves-gravy
-title: Moringa / Drumstick Leaves Gravy Without Dhal
+title: Moringa (Drumstick) Leaves Gravy Without Dhal
 excerpt: Soup made with pumpkin that goes well with fried bread.
 categories:
 - Food and Culinary
