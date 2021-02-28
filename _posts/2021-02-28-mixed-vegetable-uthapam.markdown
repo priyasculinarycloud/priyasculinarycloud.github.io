@@ -57,7 +57,7 @@ categories:
 
 
 
-  * Finely chopped carrot, onion, tomato, cabbage, green chilly, curry leaves, capsicum - 2 cups.
+  * Finely chopped carrot, onion, tomato, cabbage, green chilly, curry leaves, capsicum - 2 cups
   * Dosa batter
   * Salt
   * Oil
