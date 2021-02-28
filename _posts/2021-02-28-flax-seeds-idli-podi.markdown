@@ -6,7 +6,7 @@ excerpt: Idli powder mad eusing flax seeds
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/flax-seeds-idli-podi/
 slug: flax-seeds-idli-podi
-title: Flax seeds Idli Podi
+title: Flax Seeds Idli Podi
 wordpress_id: 1361
 categories:
 - Food and Culinary
