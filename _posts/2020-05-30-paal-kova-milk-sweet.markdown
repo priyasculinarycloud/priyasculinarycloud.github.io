@@ -6,7 +6,7 @@ excerpt: Delicious south Indian milk sweet
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/05/30/paal-kova-milk-sweet/
 slug: paal-kova-milk-sweet
-title: Paal Kova / Milk Sweet
+title: Paal Kova (Milk Sweet)
 wordpress_id: 945
 categories:
 - Food and Culinary
