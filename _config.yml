@@ -4,7 +4,7 @@ email:       shanmu09@
 author:      Shanmuga Priya
 description: "My everyday culinary experiences"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://priyasculinarycloud.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
