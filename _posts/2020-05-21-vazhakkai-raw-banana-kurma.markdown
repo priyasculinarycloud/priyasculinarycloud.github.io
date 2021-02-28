@@ -6,7 +6,7 @@ excerpt: Kurma made with raw banana, onion and tomato
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/05/21/vazhakkai-raw-banana-kurma/
 slug: vazhakkai-raw-banana-kurma
-title: Vazhakkai / Raw Banana Kurma
+title: Vazhakkai (Raw Banana) Kurma
 wordpress_id: 880
 categories:
 - Food and Culinary
