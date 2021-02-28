@@ -93,7 +93,7 @@ Gather all the ingredients and keep it ready. Heat a tsp of oil in a pan and add
 
 
 
-Then, add flax seeds to the pan and roast it until it splutters. Once roasted, remove it from the pan.
+Then, add flax seeds to the pan and roast until it splutters. Once roasted, remove it from the pan.
 
 
 
