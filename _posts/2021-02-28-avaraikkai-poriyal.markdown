@@ -6,7 +6,7 @@ excerpt: Flat beans curry that goes well with sambar / rice
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/avaraikkai-poriyal/
 slug: avaraikkai-poriyal
-title: Avaraikkai poriyal
+title: Avaraikkai Poriyal
 wordpress_id: 1315
 categories:
 - Food and Culinary
