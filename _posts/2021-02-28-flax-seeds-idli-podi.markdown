@@ -83,7 +83,7 @@ categories:
 
 
 
-Gather all the ingredients and keep it ready. Heat a tsp of oil in a pan and add the chana dhal and urad dhal and roast the mixture. Then, remove it from the pan and let it cool down. DON'T FRY TOO MUCH AS IT WILL BURN OUT.
+Gather all the ingredients and keep it ready. Heat a tsp of oil in a pan and add the chana dhal and urad dhal and roast the mixture. Then, remove it from the pan and let it cool down. **Tip: Donot roast it too much as it will burn out**
 
 
 
@@ -99,7 +99,7 @@ Add flax seeds and roast till it splutters. Once roasted, remove it from the pan
 
 
 
-Then, roast the red chillies, garlic, asafoetida and tamarind with a teaspoon of oil. Finally, roast the curry leaves. Let it cool down completely. Then, mix all the raosted ingredients and make a coarse/fine powder and store it in an air tight container. This powder goes well with Idli/Dosa.
+Then, roast the red chillies, garlic, asafoetida and tamarind with a teaspoon of oil. Finally, roast the curry leaves. Let it cool down completely. Then, mix all the roasted ingredients and make a coarse/fine powder. Store it in an air tight container. It goes well with Idli/Dosa.
 
 
 
