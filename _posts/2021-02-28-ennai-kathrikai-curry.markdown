@@ -1,6 +1,7 @@
 ---
 author: shanmu09
 comments: true
+excerpt: Nice and tasty curry made using fried egg plants
 date: 2021-02-28 09:14:14+00:00
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/ennai-kathrikai-curry/
