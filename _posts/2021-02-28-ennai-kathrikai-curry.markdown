@@ -6,7 +6,7 @@ date: 2021-02-28 09:14:14+00:00
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/ennai-kathrikai-curry/
 slug: ennai-kathrikai-curry
-title: Ennai kathrikai curry
+title: Ennai Kathrikai Curry
 wordpress_id: 1336
 categories:
 - Food and Culinary
