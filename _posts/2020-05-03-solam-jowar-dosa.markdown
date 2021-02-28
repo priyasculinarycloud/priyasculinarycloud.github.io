@@ -6,7 +6,7 @@ excerpt: Crispy jowar dosa for kids
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/05/03/solam-jowar-dosa/
 slug: solam-jowar-dosa
-title: Solam / Jowar Dosa
+title: Solam (Jowar) Dosa
 wordpress_id: 683
 categories:
 - Food and Culinary
