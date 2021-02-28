@@ -75,7 +75,7 @@ categories:
 
 
 
-Finely chop all the vegetables and mix with salt keep it ready.
+Finely chop all the vegetables. Add salt to taste and keep it ready.
 
 
 <div>
