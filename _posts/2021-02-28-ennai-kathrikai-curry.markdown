@@ -105,7 +105,7 @@ categories:
 
 
 
-Add oil in a pan and saute all the ingredients mentioned under "to roast and grind". Make it into a smooth paste once it gets cooled.
+Add oil in a pan and saute all the ingredients mentioned under "to roast and grind". Once it gets cooled, make it into a smooth paste .
 
 
 
@@ -148,7 +148,7 @@ In a heavy bottomed pan / kadai, add gingelly oil and cook the split brinjal.
 
 
 
-Then after the brinjal gets cooked, add the masala paste, salt and let it boil.
+After the brinjal gets cooked, add the masala paste, salt and let it boil.
 
 
 <div>
@@ -157,6 +157,6 @@ Then after the brinjal gets cooked, add the masala paste, salt and let it boil.
 <p/>
 
 
-Temper with mustard seeds and serve hot with rice.
+Finally, temper it with mustard seeds and serve hot with rice.
 
 
