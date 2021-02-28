@@ -2,7 +2,7 @@
 author: shanmu09
 comments: true
 date: 2021-02-28 09:14:11+00:00
-excerpt: Flat beans curry that goes well with sambar and rice
+excerpt: Flat beans curry that goes well with sambar / rice
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/avaraikkai-poriyal/
 slug: avaraikkai-poriyal
@@ -131,7 +131,7 @@ To that, add the chopped avaraikai, salt, sambar powder, turmeric powder and coo
 <div id="break"> </div>
 <p/>
 
-Serve hot with any sambar and rice.
+Serve hot with any sambar / rice.
 
 <div>
 	<img src="https://shanmugapriyam.files.wordpress.com/2020/11/00100lrportrait_00100_burst20201014130846743_cover2.jpg"  class="resize_fit_center"/>
