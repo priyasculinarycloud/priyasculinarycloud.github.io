@@ -2,7 +2,7 @@
 author: shanmu09
 comments: true
 date: 2021-02-28 09:14:19+00:00
-excerpt: Idli powder mad eusing flax seeds
+excerpt: Idli powder made using flax seeds
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/flax-seeds-idli-podi/
 slug: flax-seeds-idli-podi
