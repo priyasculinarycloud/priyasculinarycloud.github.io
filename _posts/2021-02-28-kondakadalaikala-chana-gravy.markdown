@@ -6,7 +6,7 @@ excerpt: Nutrient rich gravy made with black chana
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/kondakadalaikala-chana-gravy/
 slug: kondakadalaikala-chana-gravy
-title: Kondakadalai (Black chana) Gravy
+title: Kondakadalai (Black Chana) Gravy
 wordpress_id: 1389
 categories:
 - Food and Culinary
