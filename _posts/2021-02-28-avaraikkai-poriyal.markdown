@@ -2,7 +2,7 @@
 author: shanmu09
 comments: true
 date: 2021-02-28 09:14:11+00:00
-excerpt: Flat beans curry that goes well with south Indian lunch
+excerpt: Flat beans curry that goes well with sambar rice
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/avaraikkai-poriyal/
 slug: avaraikkai-poriyal
@@ -27,8 +27,8 @@ categories:
     clear:both;
 }
 
-.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/11/00100lrportrait_00100_burst20201014063104644_cover2.jpg');}
-.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/11/00000img_00000_burst20201027174108107_cover.jpg');}
+.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/11/00000img_00000_burst20201027174108107_cover.jpg');}
+.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/11/00100lrportrait_00100_burst20201014063104644_cover2.jpg');}
 .img_3{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/11/00100lrportrait_00100_burst20201014063137801_cover2.jpg');}
 .img_4{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/11/00100lrportrait_00100_burst20201014063220891_cover2.jpg');}
 .img_5{background-image:url('https://shanmugapriyam.files.wordpress.com/2020/11/00100lrportrait_00100_burst20201014063431077_cover2.jpg');}
@@ -114,7 +114,7 @@ Add oil in a kadai and after it gets heated, crackle the mustard seeds and fry c
 
 
 
-To that, add the chopped avaraikai, salt, sambar powder, turmeric powder and cook well by sprinkling water. Finally add the grated coconut and switch off the flame. 
+To that, add the chopped avaraikai, salt, sambar powder, turmeric powder and cook well by sprinkling water. Finally, add the grated coconut and switch off the flame. 
 
 
 
