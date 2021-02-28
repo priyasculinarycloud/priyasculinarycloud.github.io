@@ -2,6 +2,7 @@
 author: shanmu09
 comments: true
 date: 2021-02-28 09:14:11+00:00
+excerpt: Flat beans curry that goes well with south Indian lunch
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/avaraikkai-poriyal/
 slug: avaraikkai-poriyal
