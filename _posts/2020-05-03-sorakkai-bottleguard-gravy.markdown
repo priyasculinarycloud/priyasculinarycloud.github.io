@@ -6,7 +6,7 @@ excerpt: Tasty bottleguard gravy made using a very simple set of ingredients
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/05/03/sorakkai-bottleguard-gravy/
 slug: sorakkai-bottleguard-gravy
-title: Sorakkai / Bottleguard Gravy
+title: Sorakkai (Bottleguard) Gravy
 wordpress_id: 641
 categories:
 - Food and Culinary
