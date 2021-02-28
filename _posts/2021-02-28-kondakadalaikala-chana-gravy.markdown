@@ -82,7 +82,7 @@ categories:
 
 
 
-## Roast and Grind:
+## To roast and grind:
 
 
 
@@ -115,7 +115,7 @@ categories:
 
 
 
-Soak Kondakadalai for 8 hrs/overnight and keep it ready. Roast all the ingredients mentioned under "roast and grind" and make a smooth paste out of it.
+Soak kondakadalai for 8 hrs overnight and keep it ready. Roast all the ingredients mentioned under "to roast and grind" and make a smooth paste out of it.
 
 
 <div class="square img_1">
@@ -147,7 +147,7 @@ Soak Kondakadalai for 8 hrs/overnight and keep it ready. Roast all the ingredien
 
 
 
-Heat oil in a pressure cooker and add cinamon, cloves, fennel seeds and saute for few minutes. To that, add the chopped onions, curry leaves, turmeric powder and saute till the onions turn golden brown. Then, add chopped tomatoes, green chillies and cook till the tomatoes turn soft and mushy. 
+Heat the oil in a pressure cooker and add cinamon, cloves, fennel seeds and saute for few minutes. To that, add the chopped onions, curry leaves, turmeric powder and saute till the onions turn golden brown. Then, add chopped tomatoes, green chillies and cook till the tomatoes turn soft and mushy. 
 
 
 
@@ -173,7 +173,7 @@ Heat oil in a pressure cooker and add cinamon, cloves, fennel seeds and saute fo
 
 
 
-Add the soaked kondakadakai, along with salt and sambar powder and mix well. To that, add the ground paste and required amount of water and cook for 4 whistles and keep in low flame for 2 minutes and turn off the flame. 
+Add the soaked kondakadakai, along with salt and sambar powder and mix well. To that, add the ground paste and required amount of water and cook for 4 whistles . Then, leave the pressure cooker in low flame for 2 minutes and turn off the stove. 
 
 
 
