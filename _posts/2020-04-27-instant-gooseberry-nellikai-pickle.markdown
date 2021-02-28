@@ -6,7 +6,7 @@ excerpt: Quick and tasty gooseberry pickle that goes well with curd rice.
 layout: post
 link: https://shanmugapriyam.wordpress.com/2020/04/27/instant-gooseberry-nellikai-pickle/
 slug: instant-gooseberry-nellikai-pickle
-title: Instant Gooseberry / Nellikkai Pickle
+title: Instant Nellikkai (Gooseberry) Pickle
 wordpress_id: 505
 categories:
 - Food and Culinary
