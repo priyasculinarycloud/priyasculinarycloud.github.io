@@ -82,7 +82,7 @@ categories:
 
 
 
-Soak saamai for half hour before coking.Heat oil in a pan and after the oil gets heated, splutter the mustard seeds and saute the vegetables along with chilli and ginger.
+Soak saamai for half an hour. Heat the oil in a pan and once it is hot, splutter the mustard seeds and saute the vegetables along with chilli and ginger.
 
 
 
@@ -96,7 +96,7 @@ Soak saamai for half hour before coking.Heat oil in a pan and after the oil gets
 
 
 
-To that, add salt, turmeric and 2.5 cups of water and bring it to boil. Add the saamai and let it cook, covered (till it gets soft). **Tip: Add hot boiling water if required.**
+To that, add salt, turmeric and 2.5 cups of water and bring it to boil. Add the saamai and let it cook, covered (till it gets soft). **Tip: Add hot boiling water if required**. Serve hot with any chutney of your choice.
 
 
 
@@ -116,7 +116,7 @@ To that, add salt, turmeric and 2.5 cups of water and bring it to boil. Add the 
 
 
 
-Serve hot with any chutney of your choice.
+
 
 
 
