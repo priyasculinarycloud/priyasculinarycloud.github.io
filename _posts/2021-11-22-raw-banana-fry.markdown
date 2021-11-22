@@ -31,10 +31,6 @@ categories:
 .img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/04/00100lrportrait_00100_burst20210313101736965_cover.jpg');}
 .img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/04/00100lrportrait_00100_burst20210313101821302_cover.jpg');}
 
-![]()
-
-![]()![]()![]()
-
 
 
 .img_3{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/04/00100lrportrait_00100_burst20210313102641773_cover.jpg');}
