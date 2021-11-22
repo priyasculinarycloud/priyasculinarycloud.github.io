@@ -143,7 +143,7 @@ Pressure cook moong dhal and mash it with a masher. Boil 1/4 cup of water and ad
 
 
 
-Mix maida, rice flour, dosa batter and salt in a bowl with water and mix well.
+Mix maida, rice flour, dosa batter and salt in a bowl. Add water and mix well.
 
 
 <div>
