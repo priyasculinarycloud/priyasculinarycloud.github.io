@@ -5,6 +5,7 @@ author:      Shanmuga Priya
 description: "My everyday culinary experiences"
 baseurl:     ""
 url:         "https://priyasculinarycloud.github.io"
+background-image: url('/images/moringa-leaves-gravy/cover.jpg')
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
