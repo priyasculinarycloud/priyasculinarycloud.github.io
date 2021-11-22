@@ -2,7 +2,7 @@
 author: shanmu09
 comments: true
 date: 2021-11-22 06:32:04+00:00
-excerpt: Traditional South Indian sweet
+excerpt: Traditional south Indian sweet
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/11/22/moong-dhal-suzhiyan/
 slug: moong-dhal-suzhiyan
