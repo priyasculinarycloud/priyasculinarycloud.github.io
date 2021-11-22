@@ -6,7 +6,7 @@ excerpt: Traditional South Indian sweet
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/11/22/moong-dhal-suzhiyan/
 slug: moong-dhal-suzhiyan
-title: Moong dhal suzhiyan
+title: Moong Dhal Suzhiyan
 wordpress_id: 1433
 categories:
 - Food-and-Culinary
