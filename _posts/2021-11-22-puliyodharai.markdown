@@ -184,7 +184,7 @@ Cook 2 cups of rice and let it cool down completely. Add the cooked rice to the 
 
 
 
-Serve hot with papads / vathal.
+Serve hot with papad/vathal.
 
 
 

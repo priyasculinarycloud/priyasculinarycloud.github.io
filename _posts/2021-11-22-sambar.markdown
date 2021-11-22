@@ -1,6 +1,7 @@
 ---
 author: shanmu09
 comments: true
+excerpt: Delicious curry made using lentils
 date: 2021-11-22 06:29:12+00:00
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/11/22/sambar/
@@ -10,6 +11,51 @@ wordpress_id: 1493
 categories:
 - Food-and-Culinary
 ---
+<style>
+.square {
+    float:left;
+    width: 49%;
+    border-radius:5%;
+    padding-bottom : 40%; /* = width for a 1:1 aspect ratio */
+    margin:0.5%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+	
+#break {
+    clear:both;
+}
+
+
+.img_1{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721060507907_cover.jpg');}
+.img_2{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721060931521_cover.jpg');}
+
+
+.img_3{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721062110907_cover.jpg');}
+.img_4{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721062710974_cover.jpg');}
+
+
+.img_5{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721063009074_cover.jpg');}
+.img_6{background-image:url('https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721063600445_cover.jpg');}
+
+.resize_fit_center {
+    max-width:60%;
+    max-height:60%;
+    vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:5%;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+}
+</style>
+
+
 
 
 
@@ -49,35 +95,33 @@ categories:
 
 
 
-Pressure cook the toor dhal with asafoetida and turmeric with 2 cups of water for 2 whistles. After the pressure gets released,add chopped radish and cook for a whistle.
+Pressure cook the toor dhal with asafoetida and turmeric with 2 cups of water for 2 whistles. After the pressure gets released, add chopped radish and cook for a whistle.
+
+
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721062840215_cover.jpg"  class="resize_fit_center"/>
+</div>
+<p/>
 
 
 
 
-
-![](https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721062840215_cover.jpg?w=904)
-
+Heat oil in an earthern pot and crackle the mustard seeds. Then, add curry leaves, small onion and saute for few minutes. To that, add the chopped tomato, salt and cook till it gets mashed.
 
 
 
 
-Heat oil in earthern pot and crackle the mustard seeds. Then, add curryleaves,small onion and saute for few minutes. To that saute the chopped tomato,salt and cook till it gets mashed.
+<div class="square img_1">
+</div>
+<div class="square img_2">
+</div>
+<p/>
 
 
-
-
-
-
-
-![](https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721060507907_cover.jpg?resize=2000%2C2000)
-
-![](https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721060931521_cover.jpg?resize=2000%2C2000)
-
-![](https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721061104501_cover.jpg?resize=2000%2C2000)
-
-
-
-
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721061104501_cover.jpg"  class="resize_fit_center"/>
+</div>
+<p/>
 
 
 
@@ -85,33 +129,36 @@ To that, add tamarind extract, sambar powder and bring it to boil.
 
 
 
+<div class="square img_3">
+</div>
+<div class="square img_4">
+</div>
 
 
 
-
-![](https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721062110907_cover.jpg?resize=2000%2C2000)
-
-![](https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721062710974_cover.jpg?resize=2000%2C2000)
-
-![](https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721062819646_cover.jpg?resize=2000%2C2000)
-
-
-
-
-
-
-
-Then pour the cooked dhal and radhish and boil for 10 minutes. Finally add coriander leaves. 
+<div>
+	<img src="https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721062819646_cover.jpg"  class="resize_fit_center"/>
+</div>
+<p/>
 
 
 
 
 
 
+Then pour the cooked dhal and radish mixture and allow it to boil for 10 minutes. Finally, sprinkle minced coriander leaves on the top. 
 
-![](https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721063009074_cover.jpg?resize=2000%2C2000)
 
-![](https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721063600445_cover.jpg?resize=2000%2C2000)
+
+<div class="square img_5">
+</div>
+<div class="square img_6">
+</div>
+<p/>
+
+
+
+Serve hot with potato fry and appalam.
 
 ![](https://shanmugapriyam.files.wordpress.com/2021/07/00100lrportrait_00100_burst20210721063607267_cover.jpg?resize=2000%2C2000)
 
@@ -121,7 +168,7 @@ Then pour the cooked dhal and radhish and boil for 10 minutes. Finally add coria
 
 
 
-Serve hot with potato fry and appalam.
+
 
 
 
