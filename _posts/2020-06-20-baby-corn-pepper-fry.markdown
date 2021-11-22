@@ -9,7 +9,7 @@ slug: baby-corn-pepper-fry
 title: Baby Corn Pepper Fry
 wordpress_id: 1036
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square2 {

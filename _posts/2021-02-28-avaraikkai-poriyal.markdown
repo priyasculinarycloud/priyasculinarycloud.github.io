@@ -9,7 +9,7 @@ slug: avaraikkai-poriyal
 title: Avaraikkai Poriyal
 wordpress_id: 1315
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

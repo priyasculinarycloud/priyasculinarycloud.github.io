@@ -9,7 +9,7 @@ slug: chana-biryani
 title: Chana Biryani
 wordpress_id: 1260
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

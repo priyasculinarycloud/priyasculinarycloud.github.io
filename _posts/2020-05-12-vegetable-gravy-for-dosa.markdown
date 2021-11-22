@@ -9,7 +9,7 @@ slug: vegetable-gravy-for-dosa
 title: Vegetable gravy for dosa
 wordpress_id: 836
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

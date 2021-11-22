@@ -9,7 +9,7 @@ slug: kondakadalaikala-chana-gravy
 title: Kondakadalai (Black Chana) Gravy
 wordpress_id: 1389
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

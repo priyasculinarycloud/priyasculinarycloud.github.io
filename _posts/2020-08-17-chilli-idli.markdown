@@ -9,7 +9,7 @@ slug: chilli-idli
 title: Chilli Idli
 wordpress_id: 1143
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

@@ -9,7 +9,7 @@ slug: pudina-mint-rice
 title: Pudina / Mint Rice
 wordpress_id: 1077
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

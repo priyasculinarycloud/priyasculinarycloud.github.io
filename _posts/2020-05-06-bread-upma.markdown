@@ -9,7 +9,7 @@ slug: bread-upma
 title: Bread Upma
 wordpress_id: 772
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

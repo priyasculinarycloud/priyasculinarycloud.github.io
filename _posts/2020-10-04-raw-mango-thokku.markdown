@@ -9,7 +9,7 @@ slug: raw-mango-thokku
 title: Raw Mango Thokku
 wordpress_id: 1283
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

@@ -9,7 +9,7 @@ slug: oats-and-aval-poha-mixture
 title: Oats & Aval (Poha) Mixture
 wordpress_id: 1056
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

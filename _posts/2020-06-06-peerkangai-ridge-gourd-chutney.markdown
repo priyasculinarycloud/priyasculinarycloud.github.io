@@ -9,7 +9,7 @@ slug: peerkangai-ridge-gourd-chutney
 title: Peerkangai (Ridge Gourd) Chutney
 wordpress_id: 980
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

@@ -9,7 +9,7 @@ slug: mango-sago-payasam
 title: Mango Sago Payasam
 wordpress_id: 527
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

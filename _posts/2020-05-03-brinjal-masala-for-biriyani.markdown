@@ -9,7 +9,7 @@ slug: brinjal-masala-for-biriyani
 title: Brinjal Masala - For Biriyani
 wordpress_id: 699
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

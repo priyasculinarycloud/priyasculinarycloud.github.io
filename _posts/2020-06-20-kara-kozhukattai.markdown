@@ -9,7 +9,7 @@ slug: kara-kozhukattai
 title: Kara Kozhukattai
 wordpress_id: 1014
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

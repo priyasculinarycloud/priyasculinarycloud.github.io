@@ -9,7 +9,7 @@ slug: vazhakkai-raw-banana-kurma
 title: Vazhakkai (Raw Banana) Kurma
 wordpress_id: 880
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

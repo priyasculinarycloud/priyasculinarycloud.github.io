@@ -9,7 +9,7 @@ slug: sprouted-fenugreek-curry
 title: Sprouted Fenugreek Curry
 wordpress_id: 1230
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

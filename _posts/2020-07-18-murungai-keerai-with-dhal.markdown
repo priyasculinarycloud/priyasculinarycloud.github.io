@@ -9,7 +9,7 @@ slug: murungai-keerai-with-dhal
 title: Murungai Keerai With Dhal
 wordpress_id: 1126
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

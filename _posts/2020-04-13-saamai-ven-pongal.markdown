@@ -9,7 +9,7 @@ slug: saamai-ven-pongal
 title: Saamai Ven Pongal
 wordpress_id: 112
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

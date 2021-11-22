@@ -9,7 +9,7 @@ slug: capsicum-chutney
 title: Capsicum Chutney
 wordpress_id: 757
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

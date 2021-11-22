@@ -9,7 +9,7 @@ slug: kuthiraivali-barnyard-millet-mushroom-biryani
 title: Kuthiraivali (Barnyard Millet) Mushroom Biryani
 wordpress_id: 441
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

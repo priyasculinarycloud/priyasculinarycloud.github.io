@@ -9,7 +9,7 @@ slug: mixed-vegetable-uthapam
 title: Mixed Vegetable Uthapam
 wordpress_id: 1306
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

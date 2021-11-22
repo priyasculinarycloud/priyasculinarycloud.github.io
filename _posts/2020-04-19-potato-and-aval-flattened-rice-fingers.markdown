@@ -9,7 +9,7 @@ slug: potato-and-aval-flattened-rice-fingers
 title: Potato & Aval (Flattened Rice) Fingers
 wordpress_id: 363
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

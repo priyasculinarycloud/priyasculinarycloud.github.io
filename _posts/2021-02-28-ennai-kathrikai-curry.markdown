@@ -9,7 +9,7 @@ slug: ennai-kathrikai-curry
 title: Ennai Kathrikai Curry
 wordpress_id: 1336
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

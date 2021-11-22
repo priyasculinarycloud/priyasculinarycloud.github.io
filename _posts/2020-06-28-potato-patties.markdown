@@ -9,7 +9,7 @@ slug: potato-patties
 title: Potato Patties
 wordpress_id: 549
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 

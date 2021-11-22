@@ -9,7 +9,7 @@ slug: easy-kids-breakfast
 title: Easy Kids' Breakfast
 wordpress_id: 217
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

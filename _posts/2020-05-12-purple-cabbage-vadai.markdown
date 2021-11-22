@@ -9,7 +9,7 @@ slug: purple-cabbage-vadai
 title: Purple Cabbage Vadai
 wordpress_id: 806
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

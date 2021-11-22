@@ -9,7 +9,7 @@ slug: manathakkali-keerai-chutney
 title: Manathakkali Keerai Chutney
 wordpress_id: 427
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

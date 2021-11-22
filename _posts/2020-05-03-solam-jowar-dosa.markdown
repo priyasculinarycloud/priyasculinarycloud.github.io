@@ -9,7 +9,7 @@ slug: solam-jowar-dosa
 title: Solam (Jowar) Dosa
 wordpress_id: 683
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

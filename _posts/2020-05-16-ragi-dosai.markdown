@@ -9,7 +9,7 @@ slug: ragi-dosai
 title: Ragi Dosai
 wordpress_id: 823
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

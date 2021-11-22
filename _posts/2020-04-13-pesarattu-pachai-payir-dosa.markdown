@@ -9,7 +9,7 @@ slug: pesarattu-pachai-payir-dosa
 title: Pesarattu / Pachai Payir Dosa
 wordpress_id: 143
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

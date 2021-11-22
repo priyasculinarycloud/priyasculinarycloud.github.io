@@ -9,7 +9,7 @@ slug: cauliflower-tikka-masala
 title: Cauliflower Tikka Masala
 wordpress_id: 956
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

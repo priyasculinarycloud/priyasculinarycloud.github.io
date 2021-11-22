@@ -9,7 +9,7 @@ slug: easy-tomato-kurma
 title: Easy Tomato Kurma
 wordpress_id: 660
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

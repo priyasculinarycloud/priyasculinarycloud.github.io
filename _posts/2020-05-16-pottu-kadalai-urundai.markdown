@@ -9,7 +9,7 @@ slug: pottu-kadalai-urundai
 title: Pottu Kadalai Urundai
 wordpress_id: 868
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

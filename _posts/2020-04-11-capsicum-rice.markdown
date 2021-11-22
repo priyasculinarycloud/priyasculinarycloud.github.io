@@ -8,7 +8,7 @@ layout: post
 slug: capsicum-rice
 title: Capsicum Rice
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 

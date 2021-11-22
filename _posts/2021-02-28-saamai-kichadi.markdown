@@ -2,14 +2,14 @@
 author: shanmu09
 comments: true
 date: 2021-02-28 09:14:21+00:00
-excerpt: Traditional south Indian kichadi made using little millet
+excerpt: Traditional South Indian kichadi made using little millet
 layout: post
 link: https://shanmugapriyam.wordpress.com/2021/02/28/saamai-kichadi/
 slug: saamai-kichadi
 title: Saamai (Little Millet) Kichadi
 wordpress_id: 1376
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

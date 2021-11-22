@@ -9,7 +9,7 @@ slug: adai-dosa
 title: Adai Dosa
 wordpress_id: 611
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

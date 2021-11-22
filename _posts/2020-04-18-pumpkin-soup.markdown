@@ -7,7 +7,7 @@ slug: pumpkin-soup
 title: Pumpkin Soup
 excerpt: Soup made with pumpkin that goes well with fried bread.
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 

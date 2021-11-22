@@ -9,7 +9,7 @@ slug: instant-gooseberry-nellikai-pickle
 title: Instant Nellikkai (Gooseberry) Pickle
 wordpress_id: 505
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

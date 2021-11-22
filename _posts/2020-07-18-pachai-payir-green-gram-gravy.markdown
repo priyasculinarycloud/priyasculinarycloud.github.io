@@ -9,7 +9,7 @@ slug: pachai-payir-green-gram-gravy
 title: Pachai Payir (Green Gram) Gravy
 wordpress_id: 1110
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

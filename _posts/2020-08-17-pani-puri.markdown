@@ -10,7 +10,7 @@ slug: pani-puri
 title: Pani Puri
 wordpress_id: 1184
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

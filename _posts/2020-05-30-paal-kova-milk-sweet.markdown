@@ -9,7 +9,7 @@ slug: paal-kova-milk-sweet
 title: Paal Kova (Milk Sweet)
 wordpress_id: 945
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

@@ -9,7 +9,7 @@ slug: biscuit-cake
 title: Biscuit Cake
 wordpress_id: 912
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

@@ -9,7 +9,7 @@ slug: chana-masala
 title: Chana Masala
 wordpress_id: 248
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 

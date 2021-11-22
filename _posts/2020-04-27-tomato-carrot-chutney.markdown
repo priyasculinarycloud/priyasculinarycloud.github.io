@@ -9,7 +9,7 @@ slug: tomato-carrot-chutney
 title: Tomato Carrot Chutney
 wordpress_id: 586
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

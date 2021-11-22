@@ -9,7 +9,7 @@ slug: aapam
 title: Aapam
 wordpress_id: 287
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

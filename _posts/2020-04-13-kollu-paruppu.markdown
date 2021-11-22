@@ -9,7 +9,7 @@ slug: kollu-paruppu
 title: Kollu Paruppu
 wordpress_id: 132
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 
 <style>

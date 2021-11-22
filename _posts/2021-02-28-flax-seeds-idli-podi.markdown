@@ -9,7 +9,7 @@ slug: flax-seeds-idli-podi
 title: Flax Seeds Idli Podi
 wordpress_id: 1361
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

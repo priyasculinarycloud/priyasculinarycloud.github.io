@@ -9,7 +9,7 @@ slug: ragi-roti
 title: Ragi Roti
 wordpress_id: 994
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {

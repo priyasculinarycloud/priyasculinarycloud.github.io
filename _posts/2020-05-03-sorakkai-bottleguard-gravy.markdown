@@ -9,7 +9,7 @@ slug: sorakkai-bottleguard-gravy
 title: Sorakkai (Bottleguard) Gravy
 wordpress_id: 641
 categories:
-- Food and Culinary
+- Food-and-Culinary
 ---
 <style>
 .square {
